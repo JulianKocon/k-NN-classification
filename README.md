@@ -1,4 +1,4 @@
-# k-NN-classification
+# k-NN-classificator
 ## Opis
 
 Krótki projekt klasyfikujący przykłady z pliku algorytmem k-NN, w zależności od podanego parametru k. 
